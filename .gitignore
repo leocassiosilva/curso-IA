@@ -1,0 +1,7 @@
+env*/
+venv/
+.venv
+.env
+.vscode
+package-lock.json
+.python-version
